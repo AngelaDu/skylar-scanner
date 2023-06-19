@@ -1,3 +1,5 @@
+
+![skylar1](https://github.com/AngelaDu/skylar-scanner/assets/38049339/ab40186e-5693-4968-b3a2-96365edc336b)
 ## Inspiration
 
 The majority of internet users today find navigating blockchain to be highly technical and out of reach. From seed phrases to long transaction times and gas fees, it is clear why a new user would be deterred from using the space. Naturally, many have focused on improving the usability and lowering the entry level to get going. 
